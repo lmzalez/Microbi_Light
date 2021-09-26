@@ -2,8 +2,6 @@
 
 <img src="images/Microbilight.png"><br>
 
-<img src="images/Light_Sensing_Ecoli.png"><br>
-
 Laura Maria Gonzalez - lmzalez@mit.edu
 
 ### Table of Contents
